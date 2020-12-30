@@ -64,6 +64,8 @@
 	</array>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>We need your location to collect data</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Please allow access to take picture</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>We need your location to collect data always</string>
 </dict>
